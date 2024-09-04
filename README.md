@@ -7,7 +7,7 @@ Whether it is actually up-to-date with what is on my laptop I make no promise.
 However, the file "hyprland-tutorial.conf" is precisely the one that I have
 edited while I was recording a video called:
 
-" Set Up, Relax: A Step-by-Step Guide to Hyprland "
+"Set Up, Relax: A Step-by-Step Guide to Hyprland"
 
 These are the URLs of that video:
 
